@@ -1,5 +1,5 @@
 // SPDX-License-Identufier: UNLICENSED
-Pragma solidity>=0.7.0<9.9.0;
+Pragma solidity>=0.7.0<o.9.0;
 
 Contract Lottery {
      address public owner;
